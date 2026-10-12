@@ -24,7 +24,6 @@ Codex가 생성한 KOSPI·KOSDAQ 추세추종 스캐너의 **공개 시장 보�
 | `reports/YYYY-MM-DD.summary.json` | 이전 날짜 비교용 경량 데이터 |
 | `performance.json` | 완료/대기 Forward 성과 |
 | `intraday.json` | 최신 장중 잠정 결과 |
-| `intraday.previous.json` | 직전 장중 잠정 결과 |
 | `intraday-manifest.json` | 장중 비교 시점 목록 |
 | `intraday/YYYY-MM-DD/*.json` | 장중 비교용 경량 요약 |
 
