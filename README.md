@@ -20,6 +20,7 @@ Codex가 생성한 KOSPI·KOSDAQ 추세추종 스캐너의 **공개 시장 보�
 |---|---|
 | `index.html` | 모바일 보고서 UI |
 | `dates.json` | 사용 가능한 종가 보고서 날짜 manifest |
+| `market-events.json` | 당일 주요 경제·연준·실적 일정, 매일 교체 |
 | `reports/YYYY-MM-DD.json` | 해당 거래일의 공개 분석 결과 |
 | `reports/YYYY-MM-DD.summary.json` | 이전 날짜 비교용 경량 데이터 |
 | `performance.json` | 완료/대기 Forward 성과 |
