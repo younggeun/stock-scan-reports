@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-10-14T02:03:19.206010+00:00",
+  "generatedAt": "2026-10-14T22:46:25.163482+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
@@ -11,52 +11,40 @@
   },
   "events": [
     {
-      "id": "bls-cpi-2026-10-14",
-      "date": "2026-10-14",
+      "id": "bls-ppi-2026-10-15",
+      "date": "2026-10-15",
       "time": "21:30",
-      "importance": "high",
+      "importance": "medium",
       "category": "미국 지표",
-      "title": "미국 CPI",
-      "detail": "September 2026 소비자물가지수 · 실질임금 동시 발표",
-      "impact": "금리·달러·성장주·반도체 변동성",
+      "title": "미국 PPI",
+      "detail": "September 2026 생산자물가지수",
+      "impact": "물가·금리 민감주 변동성",
       "source": "BLS",
       "sourceUrl": "https://www.bls.gov/schedule/2026/10_sched.htm"
     },
     {
-      "id": "earnings-asml-2026-10-14",
-      "date": "2026-10-14",
+      "id": "earnings-tsm-2026-10-15",
+      "date": "2026-10-15",
       "time": "미국 장전",
       "importance": "high",
       "category": "주요 실적",
-      "title": "ASML 실적",
-      "detail": "ASML Holding N.V. · EPS 예상 $12.47",
+      "title": "TSM 실적",
+      "detail": "Taiwan Semiconductor Manufacturing Company Ltd. · EPS 예상 $4.45",
       "impact": "국내 반도체 대형주·장비주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-14"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-15"
     },
     {
-      "id": "earnings-financials-2026-10-14",
-      "date": "2026-10-14",
+      "id": "earnings-schw-2026-10-15",
+      "date": "2026-10-15",
       "time": "미국 장전",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "미국 대형 금융주 실적",
-      "detail": "BAC·MS·BLK",
-      "impact": "금리·신용·증권·은행 업종 심리",
+      "title": "SCHW 실적",
+      "detail": "The Charles Schwab Corporation",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-14"
-    },
-    {
-      "id": "fed-beige-book-2026-10-14",
-      "date": "2026-10-15",
-      "time": "03:00",
-      "importance": "medium",
-      "category": "연준",
-      "title": "연준 베이지북",
-      "detail": "12개 연은의 경기·고용·물가 현황",
-      "impact": "연준 경기 판단과 금리 기대 점검",
-      "source": "Federal Reserve",
-      "sourceUrl": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-15"
     }
   ]
 }
