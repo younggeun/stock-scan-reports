@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-10-14T22:46:25.163482+00:00",
+  "generatedAt": "2026-10-15T21:57:17.618948+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
@@ -11,40 +11,28 @@
   },
   "events": [
     {
-      "id": "bls-ppi-2026-10-15",
-      "date": "2026-10-15",
-      "time": "21:30",
-      "importance": "medium",
-      "category": "미국 지표",
-      "title": "미국 PPI",
-      "detail": "September 2026 생산자물가지수",
-      "impact": "물가·금리 민감주 변동성",
-      "source": "BLS",
-      "sourceUrl": "https://www.bls.gov/schedule/2026/10_sched.htm"
-    },
-    {
-      "id": "earnings-tsm-2026-10-15",
-      "date": "2026-10-15",
-      "time": "미국 장전",
-      "importance": "high",
-      "category": "주요 실적",
-      "title": "TSM 실적",
-      "detail": "Taiwan Semiconductor Manufacturing Company Ltd. · EPS 예상 $4.45",
-      "impact": "국내 반도체 대형주·장비주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-15"
-    },
-    {
-      "id": "earnings-schw-2026-10-15",
-      "date": "2026-10-15",
-      "time": "미국 장전",
+      "id": "earnings-hdb-2026-10-16",
+      "date": "2026-10-16",
+      "time": "시간 미정",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "SCHW 실적",
-      "detail": "The Charles Schwab Corporation",
+      "title": "HDB 실적",
+      "detail": "HDFC Bank Limited",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-15"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-16"
+    },
+    {
+      "id": "earnings-ibn-2026-10-16",
+      "date": "2026-10-16",
+      "time": "시간 미정",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "IBN 실적",
+      "detail": "ICICI Bank Limited",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-16"
     }
   ]
 }
