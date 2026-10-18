@@ -1,38 +1,13 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-16",
+  "date": "2026-10-19",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-10-15T21:57:17.618948+00:00",
+  "generatedAt": "2026-10-18T23:21:40.355111+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
     "fed": "ok",
     "earnings": "ok"
   },
-  "events": [
-    {
-      "id": "earnings-hdb-2026-10-16",
-      "date": "2026-10-16",
-      "time": "시간 미정",
-      "importance": "medium",
-      "category": "주요 실적",
-      "title": "HDB 실적",
-      "detail": "HDFC Bank Limited",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-16"
-    },
-    {
-      "id": "earnings-ibn-2026-10-16",
-      "date": "2026-10-16",
-      "time": "시간 미정",
-      "importance": "medium",
-      "category": "주요 실적",
-      "title": "IBN 실적",
-      "detail": "ICICI Bank Limited",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-16"
-    }
-  ]
+  "events": []
 }
