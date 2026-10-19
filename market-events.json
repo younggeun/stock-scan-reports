@@ -1,13 +1,38 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-10-18T23:21:40.355111+00:00",
+  "generatedAt": "2026-10-19T22:49:25.714910+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
     "fed": "ok",
     "earnings": "ok"
   },
-  "events": []
+  "events": [
+    {
+      "id": "earnings-ge-2026-10-20",
+      "date": "2026-10-20",
+      "time": "미국 장전",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "GE 실적",
+      "detail": "GE Aerospace",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-20"
+    },
+    {
+      "id": "earnings-nflx-2026-10-20",
+      "date": "2026-10-20",
+      "time": "미국 장후",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "NFLX 실적",
+      "detail": "Netflix, Inc.",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-20"
+    }
+  ]
 }
