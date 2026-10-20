@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-10-19T22:49:25.714910+00:00",
+  "generatedAt": "2026-10-20T22:07:23.922384+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
@@ -11,28 +11,28 @@
   },
   "events": [
     {
-      "id": "earnings-ge-2026-10-20",
-      "date": "2026-10-20",
-      "time": "미국 장전",
-      "importance": "medium",
-      "category": "주요 실적",
-      "title": "GE 실적",
-      "detail": "GE Aerospace",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-20"
-    },
-    {
-      "id": "earnings-nflx-2026-10-20",
-      "date": "2026-10-20",
+      "id": "earnings-meta-2026-10-21",
+      "date": "2026-10-21",
       "time": "미국 장후",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "NFLX 실적",
-      "detail": "Netflix, Inc.",
+      "title": "META 실적",
+      "detail": "Meta Platforms, Inc.",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-20"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-21"
+    },
+    {
+      "id": "earnings-tsla-2026-10-21",
+      "date": "2026-10-21",
+      "time": "미국 장후",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "TSLA 실적",
+      "detail": "Tesla, Inc. ",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-21"
     }
   ]
 }
