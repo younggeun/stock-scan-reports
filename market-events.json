@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-10-20T22:07:23.922384+00:00",
+  "generatedAt": "2026-10-21T22:07:33.686307+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
@@ -11,28 +11,28 @@
   },
   "events": [
     {
-      "id": "earnings-meta-2026-10-21",
-      "date": "2026-10-21",
-      "time": "미국 장후",
+      "id": "earnings-pg-2026-10-22",
+      "date": "2026-10-22",
+      "time": "미국 장전",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "META 실적",
-      "detail": "Meta Platforms, Inc.",
+      "title": "PG 실적",
+      "detail": "Procter & Gamble Company (The)",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-21"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-22"
     },
     {
-      "id": "earnings-tsla-2026-10-21",
-      "date": "2026-10-21",
-      "time": "미국 장후",
+      "id": "earnings-unp-2026-10-22",
+      "date": "2026-10-22",
+      "time": "미국 장전",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "TSLA 실적",
-      "detail": "Tesla, Inc. ",
+      "title": "UNP 실적",
+      "detail": "Union Pacific Corporation",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-21"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-22"
     }
   ]
 }
