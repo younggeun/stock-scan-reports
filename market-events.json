@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-10-25T23:32:25.171762+00:00",
+  "generatedAt": "2026-10-26T23:01:58.283589+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
@@ -11,28 +11,28 @@
   },
   "events": [
     {
-      "id": "earnings-vz-2026-10-26",
-      "date": "2026-10-26",
+      "id": "earnings-ko-2026-10-27",
+      "date": "2026-10-27",
       "time": "미국 장전",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "VZ 실적",
-      "detail": "Verizon Communications Inc.",
+      "title": "KO 실적",
+      "detail": "Coca-Cola Company (The)",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-26"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-27"
     },
     {
-      "id": "earnings-well-2026-10-26",
-      "date": "2026-10-26",
+      "id": "earnings-v-2026-10-27",
+      "date": "2026-10-27",
       "time": "미국 장후",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "WELL 실적",
-      "detail": "Welltower Inc.",
+      "title": "V 실적",
+      "detail": "Visa Inc.",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-26"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-27"
     }
   ]
 }
