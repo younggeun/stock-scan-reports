@@ -1,38 +1,62 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-10-26T23:01:58.283589+00:00",
-  "status": "confirmed",
+  "generatedAt": "2026-10-27T22:52:20.506174+00:00",
+  "status": "partial",
   "sourceStatus": {
-    "bls": "ok",
+    "bls": "unavailable",
     "fed": "ok",
     "earnings": "ok"
   },
   "events": [
     {
-      "id": "earnings-ko-2026-10-27",
-      "date": "2026-10-27",
-      "time": "미국 장전",
-      "importance": "medium",
-      "category": "주요 실적",
-      "title": "KO 실적",
-      "detail": "Coca-Cola Company (The)",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-27"
+      "id": "fed-fomc-2026-10-28-03:00",
+      "date": "2026-10-29",
+      "time": "03:00",
+      "importance": "high",
+      "category": "연준",
+      "title": "FOMC 일정",
+      "detail": "FOMC Meeting",
+      "impact": "금리·달러·글로벌 증시 전반",
+      "source": "Federal Reserve",
+      "sourceUrl": "https://www.federalreserve.gov/newsevents/2026-october.htm"
     },
     {
-      "id": "earnings-v-2026-10-27",
-      "date": "2026-10-27",
+      "id": "fed-fomc-2026-10-28-03:30",
+      "date": "2026-10-29",
+      "time": "03:30",
+      "importance": "high",
+      "category": "연준",
+      "title": "FOMC 일정",
+      "detail": "FOMC Press Conference",
+      "impact": "금리·달러·글로벌 증시 전반",
+      "source": "Federal Reserve",
+      "sourceUrl": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "id": "earnings-msft-2026-10-28",
+      "date": "2026-10-28",
       "time": "미국 장후",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "V 실적",
-      "detail": "Visa Inc.",
+      "title": "MSFT 실적",
+      "detail": "Microsoft Corporation",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-27"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-28"
+    },
+    {
+      "id": "earnings-goog-2026-10-28",
+      "date": "2026-10-28",
+      "time": "미국 장후",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "GOOG 실적",
+      "detail": "Alphabet Inc.",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-28"
     }
   ]
 }
