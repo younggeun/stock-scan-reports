@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-10-27T22:52:20.506174+00:00",
+  "generatedAt": "2026-10-28T22:57:42.673828+00:00",
   "status": "partial",
   "sourceStatus": {
     "bls": "unavailable",
@@ -11,52 +11,28 @@
   },
   "events": [
     {
-      "id": "fed-fomc-2026-10-28-03:00",
+      "id": "earnings-sndk-2026-10-29",
       "date": "2026-10-29",
-      "time": "03:00",
+      "time": "미국 장후",
       "importance": "high",
-      "category": "연준",
-      "title": "FOMC 일정",
-      "detail": "FOMC Meeting",
-      "impact": "금리·달러·글로벌 증시 전반",
-      "source": "Federal Reserve",
-      "sourceUrl": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+      "category": "주요 실적",
+      "title": "SNDK 실적",
+      "detail": "Sandisk Corporation · EPS 예상 $46.19",
+      "impact": "국내 반도체 대형주·장비주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-29"
     },
     {
-      "id": "fed-fomc-2026-10-28-03:30",
+      "id": "earnings-amzn-2026-10-29",
       "date": "2026-10-29",
-      "time": "03:30",
-      "importance": "high",
-      "category": "연준",
-      "title": "FOMC 일정",
-      "detail": "FOMC Press Conference",
-      "impact": "금리·달러·글로벌 증시 전반",
-      "source": "Federal Reserve",
-      "sourceUrl": "https://www.federalreserve.gov/newsevents/2026-october.htm"
-    },
-    {
-      "id": "earnings-msft-2026-10-28",
-      "date": "2026-10-28",
       "time": "미국 장후",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "MSFT 실적",
-      "detail": "Microsoft Corporation",
+      "title": "AMZN 실적",
+      "detail": "Amazon.com, Inc.",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-28"
-    },
-    {
-      "id": "earnings-goog-2026-10-28",
-      "date": "2026-10-28",
-      "time": "미국 장후",
-      "importance": "medium",
-      "category": "주요 실적",
-      "title": "GOOG 실적",
-      "detail": "Alphabet Inc.",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-28"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-29"
     }
   ]
 }
