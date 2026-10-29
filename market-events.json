@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-10-28T22:57:42.673828+00:00",
+  "generatedAt": "2026-10-29T23:06:42.239402+00:00",
   "status": "partial",
   "sourceStatus": {
     "bls": "unavailable",
@@ -11,28 +11,28 @@
   },
   "events": [
     {
-      "id": "earnings-sndk-2026-10-29",
-      "date": "2026-10-29",
-      "time": "미국 장후",
-      "importance": "high",
-      "category": "주요 실적",
-      "title": "SNDK 실적",
-      "detail": "Sandisk Corporation · EPS 예상 $46.19",
-      "impact": "국내 반도체 대형주·장비주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-29"
-    },
-    {
-      "id": "earnings-amzn-2026-10-29",
-      "date": "2026-10-29",
-      "time": "미국 장후",
+      "id": "earnings-xom-2026-10-30",
+      "date": "2026-10-30",
+      "time": "미국 장전",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "AMZN 실적",
-      "detail": "Amazon.com, Inc.",
+      "title": "XOM 실적",
+      "detail": "ExxonMobil Holdings Corporation",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-29"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-30"
+    },
+    {
+      "id": "earnings-abbv-2026-10-30",
+      "date": "2026-10-30",
+      "time": "미국 장전",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "ABBV 실적",
+      "detail": "AbbVie Inc.",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-30"
     }
   ]
 }
