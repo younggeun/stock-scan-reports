@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-03T01:27:55.411994+00:00",
+  "generatedAt": "2026-11-03T23:52:28.217014+00:00",
   "status": "partial",
   "sourceStatus": {
     "bls": "unavailable",
@@ -11,28 +11,28 @@
   },
   "events": [
     {
-      "id": "earnings-amd-2026-11-03",
-      "date": "2026-11-03",
-      "time": "미국 장후",
-      "importance": "high",
-      "category": "주요 실적",
-      "title": "AMD 실적",
-      "detail": "Advanced Micro Devices, Inc. · EPS 예상 $1.68",
-      "impact": "국내 반도체 대형주·장비주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-03"
-    },
-    {
-      "id": "earnings-amgn-2026-11-03",
-      "date": "2026-11-03",
+      "id": "earnings-arm-2026-11-04",
+      "date": "2026-11-04",
       "time": "미국 장후",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "AMGN 실적",
-      "detail": "Amgen Inc.",
+      "title": "ARM 실적",
+      "detail": "Arm Holdings plc",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-03"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-04"
+    },
+    {
+      "id": "earnings-tm-2026-11-04",
+      "date": "2026-11-04",
+      "time": "시간 미정",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "TM 실적",
+      "detail": "Toyota Motor Corp Ltd Ord",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-04"
     }
   ]
 }
