@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-01T22:36:40.764534+00:00",
+  "generatedAt": "2026-11-03T01:27:55.411994+00:00",
   "status": "partial",
   "sourceStatus": {
     "bls": "unavailable",
@@ -11,28 +11,28 @@
   },
   "events": [
     {
-      "id": "earnings-aapl-2026-11-02",
-      "date": "2026-11-02",
+      "id": "earnings-amd-2026-11-03",
+      "date": "2026-11-03",
       "time": "미국 장후",
-      "importance": "medium",
+      "importance": "high",
       "category": "주요 실적",
-      "title": "AAPL 실적",
-      "detail": "Apple Inc.",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "title": "AMD 실적",
+      "detail": "Advanced Micro Devices, Inc. · EPS 예상 $1.68",
+      "impact": "국내 반도체 대형주·장비주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-02"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-03"
     },
     {
-      "id": "earnings-pltr-2026-11-02",
-      "date": "2026-11-02",
+      "id": "earnings-amgn-2026-11-03",
+      "date": "2026-11-03",
       "time": "미국 장후",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "PLTR 실적",
-      "detail": "Palantir Technologies Inc.",
+      "title": "AMGN 실적",
+      "detail": "Amgen Inc.",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-02"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-03"
     }
   ]
 }
