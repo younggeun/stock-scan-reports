@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-03T23:52:28.217014+00:00",
+  "generatedAt": "2026-11-05T00:10:19.615963+00:00",
   "status": "partial",
   "sourceStatus": {
     "bls": "unavailable",
@@ -11,28 +11,28 @@
   },
   "events": [
     {
-      "id": "earnings-arm-2026-11-04",
-      "date": "2026-11-04",
-      "time": "미국 장후",
+      "id": "earnings-cop-2026-11-05",
+      "date": "2026-11-05",
+      "time": "미국 장전",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "ARM 실적",
-      "detail": "Arm Holdings plc",
+      "title": "COP 실적",
+      "detail": "ConocoPhillips",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-04"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-05"
     },
     {
-      "id": "earnings-tm-2026-11-04",
-      "date": "2026-11-04",
-      "time": "시간 미정",
+      "id": "earnings-sony-2026-11-05",
+      "date": "2026-11-05",
+      "time": "미국 장전",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "TM 실적",
-      "detail": "Toyota Motor Corp Ltd Ord",
+      "title": "SONY 실적",
+      "detail": "Sony Group Corporation",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-04"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-05"
     }
   ]
 }
