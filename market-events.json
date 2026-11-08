@@ -1,50 +1,13 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-06",
+  "date": "2026-11-09",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-05T23:57:51.534854+00:00",
+  "generatedAt": "2026-11-08T22:40:14.070645+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
     "fed": "ok",
     "earnings": "ok"
   },
-  "events": [
-    {
-      "id": "bls-jobs-2026-11-06",
-      "date": "2026-11-06",
-      "time": "22:30",
-      "importance": "high",
-      "category": "미국 지표",
-      "title": "미국 고용보고서",
-      "detail": "October 2026 비농업 고용·실업률",
-      "impact": "금리·달러·위험자산 전반",
-      "source": "BLS",
-      "sourceUrl": "https://www.bls.gov/schedule/2026/11_sched.htm"
-    },
-    {
-      "id": "earnings-brk.a-2026-11-06",
-      "date": "2026-11-06",
-      "time": "시간 미정",
-      "importance": "medium",
-      "category": "주요 실적",
-      "title": "BRK.A 실적",
-      "detail": "Berkshire Hathaway Inc.",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-06"
-    },
-    {
-      "id": "earnings-brk.b-2026-11-06",
-      "date": "2026-11-06",
-      "time": "시간 미정",
-      "importance": "medium",
-      "category": "주요 실적",
-      "title": "BRK.B 실적",
-      "detail": "Berkshire Hathaway Inc.",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-06"
-    }
-  ]
+  "events": []
 }
