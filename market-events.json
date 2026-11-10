@@ -1,50 +1,13 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-10T01:53:42.783605+00:00",
-  "status": "confirmed",
+  "generatedAt": "2026-11-10T23:55:27.682509+00:00",
+  "status": "partial",
   "sourceStatus": {
     "bls": "ok",
     "fed": "ok",
-    "earnings": "ok"
+    "earnings": "unavailable"
   },
-  "events": [
-    {
-      "id": "bls-cpi-2026-11-10",
-      "date": "2026-11-10",
-      "time": "22:30",
-      "importance": "high",
-      "category": "미국 지표",
-      "title": "미국 CPI",
-      "detail": "October 2026 소비자물가지수 · 실질임금 동시 발표",
-      "impact": "금리·달러·성장주·반도체 변동성",
-      "source": "BLS",
-      "sourceUrl": "https://www.bls.gov/schedule/2026/11_sched.htm"
-    },
-    {
-      "id": "earnings-pbr-2026-11-10",
-      "date": "2026-11-10",
-      "time": "미국 장후",
-      "importance": "medium",
-      "category": "주요 실적",
-      "title": "PBR 실적",
-      "detail": "Petroleo Brasileiro S.A.- Petrobras",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-10"
-    },
-    {
-      "id": "earnings-pbr.a-2026-11-10",
-      "date": "2026-11-10",
-      "time": "미국 장후",
-      "importance": "medium",
-      "category": "주요 실적",
-      "title": "PBR.A 실적",
-      "detail": "Petroleo Brasileiro S.A.- Petrobras",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-10"
-    }
-  ]
+  "events": []
 }
