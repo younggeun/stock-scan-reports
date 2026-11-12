@@ -1,13 +1,50 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-12T01:20:11.895090+00:00",
-  "status": "partial",
+  "generatedAt": "2026-11-12T23:58:21.223083+00:00",
+  "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
     "fed": "ok",
-    "earnings": "unavailable"
+    "earnings": "ok"
   },
-  "events": []
+  "events": [
+    {
+      "id": "bls-ppi-2026-11-13",
+      "date": "2026-11-13",
+      "time": "22:30",
+      "importance": "medium",
+      "category": "미국 지표",
+      "title": "미국 PPI",
+      "detail": "October 2026 생산자물가지수",
+      "impact": "물가·금리 민감주 변동성",
+      "source": "BLS",
+      "sourceUrl": "https://www.bls.gov/schedule/2026/11_sched.htm"
+    },
+    {
+      "id": "earnings-smfg-2026-11-13",
+      "date": "2026-11-13",
+      "time": "미국 장전",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "SMFG 실적",
+      "detail": "Sumitomo Mitsui Financial Group Inc",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-13"
+    },
+    {
+      "id": "earnings-mufg-2026-11-13",
+      "date": "2026-11-13",
+      "time": "시간 미정",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "MUFG 실적",
+      "detail": "Mitsubishi UFJ Financial Group Inc",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-13"
+    }
+  ]
 }
