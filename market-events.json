@@ -1,13 +1,38 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-15T23:19:46.472804+00:00",
+  "generatedAt": "2026-11-17T02:19:55.816921+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
     "fed": "ok",
     "earnings": "ok"
   },
-  "events": []
+  "events": [
+    {
+      "id": "earnings-nvda-2026-11-17",
+      "date": "2026-11-17",
+      "time": "미국 장후",
+      "importance": "high",
+      "category": "주요 실적",
+      "title": "NVDA 실적",
+      "detail": "NVIDIA Corporation · EPS 예상 $2.49",
+      "impact": "국내 반도체 대형주·장비주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-17"
+    },
+    {
+      "id": "earnings-hd-2026-11-17",
+      "date": "2026-11-17",
+      "time": "미국 장전",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "HD 실적",
+      "detail": "Home Depot, Inc. (The)",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-17"
+    }
+  ]
 }
