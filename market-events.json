@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-17T02:19:55.816921+00:00",
+  "generatedAt": "2026-11-18T01:30:00.858277+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
@@ -11,28 +11,40 @@
   },
   "events": [
     {
-      "id": "earnings-nvda-2026-11-17",
-      "date": "2026-11-17",
-      "time": "미국 장후",
+      "id": "fed-fomc-2026-11-18-04:00",
+      "date": "2026-11-19",
+      "time": "04:00",
       "importance": "high",
-      "category": "주요 실적",
-      "title": "NVDA 실적",
-      "detail": "NVIDIA Corporation · EPS 예상 $2.49",
-      "impact": "국내 반도체 대형주·장비주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-17"
+      "category": "연준",
+      "title": "FOMC 일정",
+      "detail": "FOMC Minutes",
+      "impact": "금리·달러·글로벌 증시 전반",
+      "source": "Federal Reserve",
+      "sourceUrl": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
-      "id": "earnings-hd-2026-11-17",
-      "date": "2026-11-17",
+      "id": "earnings-tjx-2026-11-18",
+      "date": "2026-11-18",
       "time": "미국 장전",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "HD 실적",
-      "detail": "Home Depot, Inc. (The)",
+      "title": "TJX 실적",
+      "detail": "TJX Companies, Inc. (The)",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-17"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-18"
+    },
+    {
+      "id": "earnings-panw-2026-11-18",
+      "date": "2026-11-18",
+      "time": "미국 장후",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "PANW 실적",
+      "detail": "Palo Alto Networks, Inc.",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-18"
     }
   ]
 }
