@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-18T01:30:00.858277+00:00",
+  "generatedAt": "2026-11-19T00:58:37.084419+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
@@ -11,40 +11,28 @@
   },
   "events": [
     {
-      "id": "fed-fomc-2026-11-18-04:00",
+      "id": "earnings-wmt-2026-11-19",
       "date": "2026-11-19",
-      "time": "04:00",
-      "importance": "high",
-      "category": "연준",
-      "title": "FOMC 일정",
-      "detail": "FOMC Minutes",
-      "impact": "금리·달러·글로벌 증시 전반",
-      "source": "Federal Reserve",
-      "sourceUrl": "https://www.federalreserve.gov/newsevents/2026-november.htm"
-    },
-    {
-      "id": "earnings-tjx-2026-11-18",
-      "date": "2026-11-18",
       "time": "미국 장전",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "TJX 실적",
-      "detail": "TJX Companies, Inc. (The)",
+      "title": "WMT 실적",
+      "detail": "Walmart Inc.",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-18"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-19"
     },
     {
-      "id": "earnings-panw-2026-11-18",
-      "date": "2026-11-18",
-      "time": "미국 장후",
+      "id": "earnings-baba-2026-11-19",
+      "date": "2026-11-19",
+      "time": "미국 장전",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "PANW 실적",
-      "detail": "Palo Alto Networks, Inc.",
+      "title": "BABA 실적",
+      "detail": "Alibaba Group Holding Limited",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-18"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-19"
     }
   ]
 }
