@@ -1,38 +1,13 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-19T00:58:37.084419+00:00",
+  "generatedAt": "2026-11-20T01:03:38.650285+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
     "fed": "ok",
     "earnings": "ok"
   },
-  "events": [
-    {
-      "id": "earnings-wmt-2026-11-19",
-      "date": "2026-11-19",
-      "time": "미국 장전",
-      "importance": "medium",
-      "category": "주요 실적",
-      "title": "WMT 실적",
-      "detail": "Walmart Inc.",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-19"
-    },
-    {
-      "id": "earnings-baba-2026-11-19",
-      "date": "2026-11-19",
-      "time": "미국 장전",
-      "importance": "medium",
-      "category": "주요 실적",
-      "title": "BABA 실적",
-      "detail": "Alibaba Group Holding Limited",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-19"
-    }
-  ]
+  "events": []
 }
