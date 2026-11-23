@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-20",
+  "date": "2026-11-23",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-20T01:03:38.650285+00:00",
+  "generatedAt": "2026-11-23T00:00:14.441572+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
