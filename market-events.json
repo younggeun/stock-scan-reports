@@ -1,13 +1,38 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-23T00:00:14.441572+00:00",
+  "generatedAt": "2026-11-24T04:11:57.526299+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
     "fed": "ok",
     "earnings": "ok"
   },
-  "events": []
+  "events": [
+    {
+      "id": "earnings-dell-2026-11-24",
+      "date": "2026-11-24",
+      "time": "미국 장후",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "DELL 실적",
+      "detail": "Dell Technologies Inc.",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-24"
+    },
+    {
+      "id": "earnings-bhp-2026-11-24",
+      "date": "2026-11-24",
+      "time": "시간 미정",
+      "importance": "medium",
+      "category": "주요 실적",
+      "title": "BHP 실적",
+      "detail": "BHP Group Limited",
+      "impact": "미국 업종 및 국내 관련주 투자심리",
+      "source": "Nasdaq",
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-24"
+    }
+  ]
 }
