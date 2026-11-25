@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "timezone": "Asia/Seoul",
-  "generatedAt": "2026-11-24T04:11:57.526299+00:00",
+  "generatedAt": "2026-11-25T02:57:21.991015+00:00",
   "status": "confirmed",
   "sourceStatus": {
     "bls": "ok",
@@ -11,28 +11,28 @@
   },
   "events": [
     {
-      "id": "earnings-dell-2026-11-24",
-      "date": "2026-11-24",
-      "time": "미국 장후",
+      "id": "earnings-de-2026-11-25",
+      "date": "2026-11-25",
+      "time": "미국 장전",
       "importance": "medium",
       "category": "주요 실적",
-      "title": "DELL 실적",
-      "detail": "Dell Technologies Inc.",
+      "title": "DE 실적",
+      "detail": "Deere & Company",
       "impact": "미국 업종 및 국내 관련주 투자심리",
       "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-24"
+      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-25"
     },
     {
-      "id": "earnings-bhp-2026-11-24",
-      "date": "2026-11-24",
-      "time": "시간 미정",
+      "id": "fed-beige-book-2026-11-25",
+      "date": "2026-11-26",
+      "time": "04:00",
       "importance": "medium",
-      "category": "주요 실적",
-      "title": "BHP 실적",
-      "detail": "BHP Group Limited",
-      "impact": "미국 업종 및 국내 관련주 투자심리",
-      "source": "Nasdaq",
-      "sourceUrl": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-24"
+      "category": "연준",
+      "title": "연준 베이지북",
+      "detail": "12개 연은의 경기·고용·물가 현황",
+      "impact": "연준 경기 판단과 금리 기대 점검",
+      "source": "Federal Reserve",
+      "sourceUrl": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     }
   ]
 }
